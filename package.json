@@ -1,6 +1,6 @@
 {
   "name": "math-ceil",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Rounds a numeric value toward positive infinity.",
   "author": {
     "name": "Athan Reines",
